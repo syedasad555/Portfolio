@@ -1,0 +1,40 @@
+body{
+    background-color: azure;
+    color: white;
+    display: flow-root;
+    margin-top: 200px;
+    background-image: url(fb.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#h1{
+    background-color: blue;
+    width: 200px;
+    color: white;
+    margin-left: 650px;
+}
+form{
+    margin-left: 10px;
+}
+#l1{
+    margin-left: 90px;
+    background-color: blue;
+}
+#f1{
+    margin-left: 10px;
+}
+
+#r1{
+    margin-left: 90px;
+    width: 65px;
+    height: 30px;
+    
+}
+::placeholder{
+    color: black;
+}
+#b1{
+    
+    background-color: aqua;
+}
